@@ -5,7 +5,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pwgithubConettickpip2022/images.gift/main/kitsunebi_confix.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pwgithubConettickpip2022/images.gift/main/kitsunebi_confix.jpg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://raw.githubusercontent.com/pwgithubConettickpip2022/images.gift/main/kitsunebi_confix.jpg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://raw.githubusercontent.com/pwgithubConettickpip2022/images.gift/main/kitsunebi_confix.jpg width="150" height="150">
 </picture>
 
 * **Chúng tôi khuyên bạn nên dùng `Subscription` từ những wed `v2board` bạn có thể tìm những wed `v2board`trên group facebook**
