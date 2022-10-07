@@ -6,3 +6,4 @@
 * **Tệp [geosite](https://github.com/v2ray/domain-list-community)**
 * **Tệp [geoip](https://github.com/v2ray/geoip)**
 * **Mục đích tôi share app này trên đây vì một lần truy cập `baidu` bên Trung Quốc thấy rất nhiều người dùng ứng dụng này, và ứng dụng này cũng không thua kém v2rayNG.**
+* **Hỗ trợ Android 4.2+**
